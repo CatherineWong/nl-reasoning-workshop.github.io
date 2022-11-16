@@ -95,7 +95,7 @@ acknowledgements: ""
       <h6>DeepMind</h6>
     </div>
   </div>
-
+  </div>
 <hr />
 
 <!-- Organizers -->
